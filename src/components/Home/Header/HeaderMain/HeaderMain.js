@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import test from "../../../../image/disease-test-2.jpg";
+import test from "../../../../image/appointment2.jpg";
 import Button from "../../../UI/Button/Button";
 import './HeaderMain.css'
 
