@@ -1,0 +1,17 @@
+.header-container {
+  height: 600px;
+  position: relative;
+  background-image: url("../../../../image/appoinment.jpg");
+  background-size: cover;
+  opacity: .8;
+}
+.header-container::after {
+  height: 600px;
+  content: " ";
+  position: absolute;
+  top: 0;
+  width: 31%;
+  right: 0;
+  background-color: #272e3f;
+  z-index: -1;
+}
