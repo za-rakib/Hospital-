@@ -9,7 +9,7 @@ const Footer = () => {
           <p className="footer-copyright-text">
             <a className="footer-copyright-link" href="/" target="_self">
               {" "}
-              ©2021. | Designed By:   | All rights reserved.{" "}
+              ©2021. | Designed By: Shubho &  Sharif | All rights reserved.{" "}
             </a>
           </p>
         </div>
